@@ -1,0 +1,32 @@
+body {
+	background-image: linear-gradient(black, white);
+	  min-height: 90%;
+	
+}html {
+  height: 100%;
+}
+
+/* definicja obiektu do wypoisywania błedów */
+.error {
+	color: red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#logo {
+	
+	background-color: green;
+	text-shadow: 4px 2px #003300;
+	font-size: 40px;
+	color: white;
+	float: left;
+	margin: auto;
+	text-align: center;
+	padding: auto;
+	width: 300;
+	height: 50;
+	position: relative;
+	left: 18%;
+	border: 3px solid #73AD21;
+}
+
