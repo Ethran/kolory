@@ -30,3 +30,23 @@ body {
 	border: 3px solid #73AD21;
 }
 
+#content {
+	background-color: white;
+	float: center;
+	margin: auto;
+	text-align: center;
+	padding: auto;
+	width: 620px;
+	height: auto;
+	border-style: ridge;
+}
+#logowanie {
+	background-color: lightgray;
+	float: center;
+	margin: auto;
+	text-align: center;
+	padding: auto;
+	width: 300px;
+	margin-bottom: 5%;
+	border-style: ridge;
+}
