@@ -21,20 +21,17 @@ body {
 }
 
 #title {
-	
-	background-color: green;
-	text-shadow: 4px 2px #003300;
-	font-size: 40px;
-	color: white;
+	background-color: #800080;
+	letter-spacing: -8px;
+	font-size: 30px;
 	float: auto;
 	margin: auto;
 	text-align: center;
 	padding: auto;
 	width: 50%;
-	height: 50;
 	position: center;
 	left: 18%;
-	border: 3px solid #73AD21;
+	border: 3px solid #ca0fca;
 }
 
 
