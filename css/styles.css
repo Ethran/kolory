@@ -50,6 +50,11 @@ body {
 	margin-top: 2%;
 
 }
+
+blockquote {
+	text-indent: -0.45em;
+  }
+
 chapter{
 	color: black;
 }
