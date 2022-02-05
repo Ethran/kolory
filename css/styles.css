@@ -67,12 +67,12 @@ chapter_title{
 }
 normal_text{
 	font-size: 15px;
-  	display: block;
+	display: block;
 	text-indent: 50px;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-right: 10%;
-  margin-left: 10%;
+  	margin-top: auto;
+  	margin-bottom: auto;
+  	margin-right: 10%;
+  	margin-left: 10%;
 }
 #logowanie {
 	background-color: lightgray;
