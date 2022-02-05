@@ -51,8 +51,7 @@ body {
 
 }
 chapter{
-	font-size: 20px;
-	font-style: italic;
+	color: black;
 }
 chapter_title{
 	display: inline-block;
@@ -84,4 +83,9 @@ normal_text{
 	width: 300px;
 	margin-bottom: 5%;
 	border-style: ridge;
+}
+.center{
+	display: block;
+	margin: auto;
+	width: 80%;
 }
