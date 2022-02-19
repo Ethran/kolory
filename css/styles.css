@@ -65,7 +65,7 @@ chapter_title{
 	display: block;
    	width:100%;
 	text-align: center;
-	font-size: 30px;
+	font-size: 2em;
 	margin-top: 5vh;
   	margin-bottom: 2vh;
   	margin-right: auto;
@@ -86,7 +86,7 @@ chapter_title{
 }
 
 normal_text{
-	font-size: 18px;
+	font-size: 1.2em;
 	color: rgb(224, 224, 224);;
 	display: block;
 	text-indent: 50px;
