@@ -23,7 +23,7 @@ html {
 	margin-bottom: 10px;
 }
 
-#title {
+#title {  
 	font-style: italic;
 	background-color: #800080;
 	letter-spacing: -8px;
@@ -58,9 +58,11 @@ blockquote {
   }
 /* 
 #FF8080 
-#8080FF
+#8080FF 
+border-radius: 5px;
 */
 chapter_title{
+
 	color: rgb(224, 224, 224);
 	display: block;
    	width:100%;
